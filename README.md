@@ -1,7 +1,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "[https://telegra.ph/file/adc46970456c26cad0c15.jpg](https://github.com/amaanmhd/Media-upload-/blob/b0cacd1bb4ed5aa6c2a3d698b330b21eb85124c3/IMG_1914_1_optimized_5.jpeg)"  width="300" height="300">
+<img src = "https://i.ibb.co/TwDWmsq/IMG-1914-1-optimized-5.jpg"  width="300" height="300">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT" alt="">
@@ -10,11 +10,11 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ammu_bot-red.svg?style=for-the-badge&logo=github"></a>
 
 ### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+ammu  is a whatsapp bot created by amaaN mhD ( Developer ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-And Subscribe GAMING RASH and give one star for queen anju.
+And Subscribe ammu editz and give one star for queen anju.
 </br>
-#### Give One star For  Ammu and [Follow Me]([https://github.com/Mrrashmika)](https://chat.whatsapp.com/Ibuc28fWQ4yEmlQvcg4ifV) 
+#### Give One star For  Ammu and [join]([https://chat.whatsapp.com/Ibuc28fWQ4yEmlQvcg4ifV)](https://chat.whatsapp.com/Ibuc28fWQ4yEmlQvcg4ifV) 
 
 ## How create Ammu.
 
@@ -38,6 +38,6 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
 ***<p align="center"> • [`Tap here for Render tutorial`](https://youtube.com/shorts/t-1Z-8gDuk4?feature=share)) </p>***
 
-   2..DEPLOY ON GITHUB
+   2..SUBSCRIBE ON YOUTUB
 
 ***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtube.com/shorts/t-1Z-8gDuk4?feature=share)) </p>***
