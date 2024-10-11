@@ -24,7 +24,7 @@ And Subscribe ammu editz and give one star for queen anju.
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp* 
    <p align="center">
-       <a href="https://replit.com/@win-771/QUEENANJU-PAIR?v=1">
+       <a href="https://intelligent-marysa-tharumin-c5a17a2e.koyeb.app">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
