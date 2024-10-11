@@ -7,21 +7,20 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ammu_bot-red.svg?style=for-the-badge&logo=github"></a>
 
 ### Please Read !
 Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
 And Subscribe GAMING RASH and give one star for queen anju.
 </br>
-#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
+#### Give One star For  Ammu and [Follow Me]([https://github.com/Mrrashmika)](https://chat.whatsapp.com/Ibuc28fWQ4yEmlQvcg4ifV) 
 
-## How create queen Anju.
+## How create Ammu.
 
 **. Deploy steps.*
- - 1._Fork queen Anju repository._
-    <br>
-    <a href="https://github.com/Mrrashmika/Queen_Anju-MD/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+ - 1._Fork ammu repository._
+   
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp* 
    <p align="center">
@@ -37,8 +36,8 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrrashmika/Queen_Anju-MD.git)
 
-***<p align="center"> • [`Tap here for Render tutorial`](https://youtu.be/aIUe2sEmd_E?si=WiL0IMrI79GJuog9) </p>***
+***<p align="center"> • [`Tap here for Render tutorial`](https://youtube.com/shorts/t-1Z-8gDuk4?feature=share)) </p>***
 
    2..DEPLOY ON GITHUB
 
-***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtu.be/NUali0Qym44?si=tlO24axYN_w2swyn) </p>***
+***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtube.com/shorts/t-1Z-8gDuk4?feature=share)) </p>***
