@@ -1,7 +1,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://telegra.ph/file/adc46970456c26cad0c15.jpg"  width="300" height="300">
+<img src = "[https://telegra.ph/file/adc46970456c26cad0c15.jpg](https://github.com/amaanmhd/Media-upload-/blob/b0cacd1bb4ed5aa6c2a3d698b330b21eb85124c3/IMG_1914_1_optimized_5.jpeg)"  width="300" height="300">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT" alt="">
