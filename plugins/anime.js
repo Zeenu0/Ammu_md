@@ -10,7 +10,7 @@ var cants = "I cant find this anime."
 cmd({
     pattern: "loli",
     alias: ["imgloli"],
-    react: '🧧',
+    react: '😬',
     desc: "Download anime loli images.",
     category: "anime",
     use: '.loli',
@@ -20,9 +20,9 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sen
 try{
 
 let res = await axios.get('https://api.lolicon.app/setu/v2?num=1&r18=0&tag=lolicon')
-let wm = `🧧 Random loli image
+let wm = `😬 Random loli image
 
-*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
+*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ amaaN ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
 await conn.sendMessage(from, { image: { url: res.data.data[0].urls.original }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -34,7 +34,7 @@ console.log(e)
 cmd({
     pattern: "waifu",
     alias: ["imgwaifu"],
-    react: '🧧',
+    react: '😬',
     desc: "Download anime waifu images.",
     category: "anime",
     use: '.waifu',
@@ -43,9 +43,9 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let res = await axios.get('https://api.waifu.pics/sfw/waifu')
-let wm = `🧧 Random Waifu image
+let wm = `😬 Random Waifu image
 
-*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
+*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ amaaN ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -57,7 +57,7 @@ console.log(e)
 cmd({
     pattern: "neko",
     alias: ["imgneko"],
-    react: '💫',
+    react: '🧸',
     desc: "Download anime neko images.",
     category: "anime",
     use: '.neko',
@@ -66,9 +66,9 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let res = await axios.get('https://api.waifu.pics/sfw/neko')
-let wm = `🧧 Random neko image
+let wm = `😬 Random neko image
 
-*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
+*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ amaaN ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
 await conn.sendMessage(from, { image: { url: res.data.url  }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -80,7 +80,7 @@ console.log(e)
 cmd({
     pattern: "megumin",
     alias: ["imgmegumin"],
-    react: '🧧',
+    react: '😬',
     desc: "Download anime megumin images.",
     category: "anime",
     use: '.megumin',
@@ -89,9 +89,9 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let res = await axios.get('https://api.waifu.pics/sfw/megumin')
-let wm = `🧧 Random megumin image
+let wm = `😬 Random megumin image
 
-*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
+*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ amaaN ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -103,7 +103,7 @@ console.log(e)
 cmd({
     pattern: "maid",
     alias: ["imgmaid"],
-    react: '💫',
+    react: '🧸',
     desc: "Download anime maid images.",
     category: "anime",
     use: '.maid',
@@ -112,9 +112,9 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let res = await axios.get('https://api.waifu.im/search/?included_tags=maid')
-let wm = `🧧 Random maid image
+let wm = `😬 Random maid image
 
-*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
+*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ amaaN ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
 await conn.sendMessage(from, { image: { url: res.data.images[0].url  }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -126,7 +126,7 @@ console.log(e)
 cmd({
     pattern: "awoo",
     alias: ["imgawoo"],
-    react: '🧧',
+    react: '😬',
     desc: "Download anime awoo images.",
     category: "anime",
     use: '.awoo',
@@ -135,9 +135,9 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let res = await axios.get('https://api.waifu.pics/sfw/awoo')
-let wm = `🧧 Random awoo image
+let wm = `😬 Random awoo image
 
-*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
+*©ᴄʀᴇᴀᴛᴇᴅ ʙY amaaN ᴄᴏᴅᴇʀ..🧑🏻‍💻*`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
